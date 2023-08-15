@@ -1,7 +1,4 @@
-<picture>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=n0099.n0099">
-</picture>
-<br>
+[![](https://s01.flagcounter.com/count/e2FM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/e2FM)
 
 <picture>
   <img width="420" src="/header.png">
