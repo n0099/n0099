@@ -11,9 +11,6 @@
 </picture>
 
 # [Steam](https://steamcommunity.com/id/n0099)
-<picture>
-  <img src="/steam.png">
-</picture>
 
 # [osu!](https://osu.ppy.sh/users/12487751)
 [![](https://lemmmy.pw/osusig/sig.php?colour=pink&uname=n0099&pp=1&countryrank&darktriangles&xpbar)](https://github.com/tmpim/osusig) [![](https://lemmmy.pw/osusig/sig.php?colour=pink&uname=n0099&pp=1&countryrank&darktriangles&xpbar&mode=3)](https://github.com/tmpim/osusig)
