@@ -19,7 +19,7 @@ jobs:
           filename: recent.png
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          extras_css: "@import url(https://cdn.jsdelivr.net/gh/n0099/n0099@main/extras.css)"
+          extras_css: "@import url(https://cdn.jsdelivr.net/gh/n0099/n0099@actions/extras.css)"
           config_timezone: Asia/Shanghai
           repositories_skipped: open-tbclient, tbclient.protobuf
 
