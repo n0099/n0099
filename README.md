@@ -1,9 +1,6 @@
-<picture>
-  <img width="420" src="/header.png">
-</picture>
-<picture>
-  <img width="420" src="/recent.png">
-</picture>
+<!-- https://stackoverflow.com/questions/40625614/is-it-possible-to-disable-the-automatic-linking-of-images-in-github-markdown-ren/73422089#73422089 -->
+|<picture><img src="/header.png"></picture>|<picture><img src="/recent.png"></picture>|
+|--|--|
 
 # [StackOverflow](https://stackoverflow.com/users/12576620/n0099) [StackExchange](https://stackexchange.com/users/17360131/n0099?tab=activity)
 <picture>
