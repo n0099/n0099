@@ -1,15 +1,16 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: header
 on:
-  schedule: [{cron: "0 16 * * *"}]
+  schedule:
+    - cron: "0 16 * * *"
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["actions"]}
+  push:
+    branches:
+      - actions
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment:
-      name: production
     permissions:
       contents: write
     steps:
